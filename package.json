@@ -1,0 +1,15 @@
+{
+  "name": "v-liuxue",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "keystone": "latest",
+    "express": "latest",
+    "mongoose": "latest",
+    "underscore": "latest",
+    "swig": "latest"
+  },
+  "scripts": {
+    "start": "web.js"
+  }
+}
